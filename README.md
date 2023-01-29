@@ -2,8 +2,7 @@
 Aplikasi Presensi Smalane
 
 # Proyek P5 Informatika
-Kelompok 6
-Anggota:
+Kelompok 6 :
   1. Alfandi Raditya / X-2 
   2. Bunga Cantika Z. /X-5 
   3. Sekar Ayu A. / X-5 
