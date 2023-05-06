@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570673294821",
+    "project_id": "wonten-app",
+    "storage_bucket": "wonten-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570673294821:android:038e75777f2240ac28530c",
+        "android_client_info": {
+          "package_name": "com.sekarayu.wonten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570673294821-n6ejno1pmfhnd7q9u8otkde7hpsi5s4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgbRHCCTCwJgTcwj2HxQTjZj7bRIKx5hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570673294821-n6ejno1pmfhnd7q9u8otkde7hpsi5s4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
